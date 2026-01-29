@@ -1,8 +1,8 @@
-Technical Test Programmer 🚀
-Aplikasi Management Karyawan (CRUD) modern dengan desain estetik yang dibangun menggunakan Express.js (Backend) dan Vue.js 3 + Tailwind CSS (Frontend).
+Technical Test Programmer 
+
+Aplikasi Management Karyawan (CRUD) modern yang dibangun menggunakan Express.js (Backend) dan Vue.js 3 + Tailwind CSS (Frontend).
 
 ![WhatsApp Image 2026-01-29 at 11 12 19 AM](https://github.com/user-attachments/assets/ba8e3e66-12a7-49eb-ae4f-62cbe9283788)
-
 
 🛠️ Tech Stack
 Frontend: Vue.js 3 (Vite), Tailwind CSS, DaisyUI, Axios.
